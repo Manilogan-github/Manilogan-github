@@ -1,8 +1,5 @@
-- 👋 Hi, I’m @Manilogan-github
-- 👀 I’m interested in helping organisations to adopt to DevOPS process
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on interested organisation
-- 📫 How to reach me ...
+- 👋 Hi, This is @Manilogan-github
+
 
 <!---
 Manilogan-github/Manilogan-github is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
